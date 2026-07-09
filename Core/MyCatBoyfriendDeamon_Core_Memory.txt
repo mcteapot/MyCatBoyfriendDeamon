@@ -1,0 +1,34 @@
+My Cat Boyfriend Deamon - Core Memory
+
+Project Type
+- We are writing a microdrama vertical show.
+- The show will be developed episode by episode.
+- Do not begin writing episode scripts until the user explicitly states that we are to write an episode.
+
+Core Project Files
+- MyCatBoyfriendDeamon_Character_Bible: Overview of all characters who could appear in the show.
+- MyCatBoyfriendDeamon_Creature_Bible: Overview of all creatures who could appear in the show.
+- MyCatBoyfriendDeamon_WorldBuilding: Overview of where the show takes place.
+- MyCatBoyfriendDeamon_Arc_Outline: High-level overview of what is to happen in the show.
+- MyCatBoyfriendDeamon_Script: The single script file where all written episodes will be added.
+
+Episode Writing Rule
+- When the user says to write an episode, write the episode into MyCatBoyfriendDeamon_Script.
+- Until then, use the core files for planning, continuity, reference, and preparation only.
+
+AI Video Generation Requirement
+- The completed scripts will later be converted into generative AI video using Seedance 2.0.
+- Because of this, episode scripts should include detailed descriptions of:
+  - On-screen actions
+  - Character appearances and behavior
+  - Locations
+  - Creature details
+  - Visual atmosphere
+  - Important props
+  - Camera-relevant movement and staging
+- Descriptions should be useful for AI video generation while still reading like a script for a fast vertical microdrama.
+
+Working Principle
+- Maintain continuity with the character bible, creature bible, worldbuilding file, and arc outline.
+- Preserve microdrama pacing: strong hooks, short scenes, clear visual conflict, escalation, and cliffhangers.
+- Do not add major lore, character changes, or episode events that contradict the established core files unless the user requests a change.

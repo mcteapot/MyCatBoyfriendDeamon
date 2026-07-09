@@ -1,0 +1,4 @@
+interface:
+  display_name: "Story Structure Architect"
+  short_description: "Build story outlines with fitting beat structures"
+  default_prompt: "Use $story-structure-architect to choose the best structure for my story and turn it into a beat sheet."

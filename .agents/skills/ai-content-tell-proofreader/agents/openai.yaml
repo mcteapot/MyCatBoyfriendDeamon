@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Content Tell Proofreader"
+  short_description: "Find AI-polished prose tells without flattening voice"
+  default_prompt: "Use $ai-content-tell-proofreader to review this passage for AI-polished tells while preserving my voice."

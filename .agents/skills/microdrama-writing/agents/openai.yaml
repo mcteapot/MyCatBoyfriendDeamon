@@ -1,0 +1,4 @@
+interface:
+  display_name: "Microdrama Writing"
+  short_description: "Write vertical microdramas with addictive hooks"
+  default_prompt: "Use $microdrama-writing to build a binge-worthy vertical microdrama outline with strong cliffhangers."
