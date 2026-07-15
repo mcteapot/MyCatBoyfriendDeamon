@@ -1,0 +1,39 @@
+My Cat Boyfriend Deamon - Video Generation Guidelines
+
+Purpose
+- This file stores project-specific guidelines for converting written episodes into Seedance 2.0 video generation prompts.
+- Use these rules alongside the script file, character bible, creature bible, worldbuilding file, arc outline, and Seedance 2.0 prompt generator skill.
+
+Core Output Style
+- All video generation prompts should target photoreal video output.
+- The visual style should feel cinematic, grounded, and physically believable, even when supernatural elements appear.
+- Magical effects, yokai, demon forms, blue flames, black-red Mawari energy, spirit chains, bells, reflections, and shrine phenomena should be described as photoreal supernatural visuals rather than cartoon or anime visuals unless the user says otherwise.
+
+Aspect Ratio
+- Generate all shots in vertical format.
+- Default aspect ratio for every Seedance 2.0 prompt: 9:16.
+
+Prompt Detail Requirements
+- For characters, include detailed descriptions of appearance, wardrobe, posture, facial expression, emotional state, and relevant body language.
+- For creatures, include detailed descriptions of anatomy, texture, scale, movement, behavior, lighting interaction, and supernatural effects.
+- For locations, include detailed descriptions of setting layout, time of day, lighting, weather, atmosphere, props, background movement, and visual mood.
+- For camera moves, specify shot size, angle, camera movement, framing, focus, and subject movement.
+- For actions, describe visible physical motion clearly and sequentially so the generated video has readable staging.
+
+Seedance Prompt Breakdown Rule
+- Each written script episode should be converted into 10-15 second video prompt breakdowns.
+- Each 10-15 second prompt should cover one clear visual beat, action exchange, emotional turn, supernatural reveal, or cliffhanger moment.
+- Avoid overloading one Seedance prompt with too many actions, locations, or character turns.
+- When an episode contains multiple beats, split it into multiple 10-15 second Seedance prompts.
+
+Continuity Expectations
+- Preserve character identity, wardrobe, location layout, lighting direction, time of day, props, creature design, and magical effects across related shots.
+- Maintain the established project visual language: blue spiritual energy for Kuro and shrine magic, silver energy for Ren and the Spirit Wardens, and black-red energy for Mawari.
+- Preserve Kuro's communication rule: he communicates through meows, growls, roars, posture, claws, eye contact, and catlike body language.
+
+Default Prompt Assumptions
+- Platform: vertical mobile video.
+- Aspect ratio: 9:16.
+- Visual output: photoreal cinematic supernatural romance.
+- Prompt unit: 10-15 seconds per Seedance generation.
+- Priority: clear staging, strong emotion, visual continuity, and readable supernatural action.

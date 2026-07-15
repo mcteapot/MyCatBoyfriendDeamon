@@ -1,0 +1,4 @@
+interface:
+  display_name: "Seedance 2.0 Prompt Generator"
+  short_description: "Turn episodes into Seedance video prompts"
+  default_prompt: "Use $seedance-2-video-prompt-generator to convert this episode scene into Seedance 2.0 video prompts."
