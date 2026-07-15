@@ -12,6 +12,9 @@ Core Project Files
 - MyCatBoyfriendDeamon_Arc_Outline: High-level overview of what is to happen in the show.
 - MyCatBoyfriendDeamon_Script: Legacy general script file.
 - Core/Episodes: Active episode script folder. Each episode has its own sequential file using the pattern MyCatBoyfriendDeamon_Arc_##_Episode_##_Script.txt.
+- Core/Guidelines: Project-specific writing and video generation guidelines.
+  - MyCatBoyfriendDeamon_Script_Guidelines.txt: Script writing rules, including Japan setting with English dialogue, episode format, pacing, and character-specific script rules.
+  - MyCatBoyfriendDeamon_VideoGeneration_Guidelines.txt: Seedance 2.0 prompt conversion rules, including photoreal output, 9:16 aspect ratio, detailed visual prompting, and 10-15 second prompt breakdowns.
 
 Episode Writing Rule
 - When the user says to write or revise an episode, write and update it in its matching file under Core/Episodes using the pattern MyCatBoyfriendDeamon_Arc_##_Episode_##_Script.txt.

@@ -1,0 +1,47 @@
+My Cat Boyfriend Deamon - Script Guidelines
+
+Purpose
+- This file stores project-specific guidelines for writing and revising episode scripts.
+- Use these rules alongside the core memory, character bible, creature bible, worldbuilding file, arc outline, and microdrama writing skill.
+
+Language And Setting
+- The story is set in Japan.
+- All dialogue should be written in English.
+- Keep the Japanese setting visible through locations, school culture, shrine details, town traditions, uniforms, food stalls, honorific-aware social dynamics when useful, and local supernatural folklore.
+- Do not write Japanese dialogue unless the user specifically requests it.
+
+Episode Script Format
+- Each episode script should live in its matching file under `Core/Episodes`.
+- Use the file pattern `MyCatBoyfriendDeamon_Arc_##_Episode_##_Script.txt`.
+- Each episode script must include an estimated total runtime directly under the episode title.
+- Each episode script must include timecoded sections.
+- Every episode's timecode starts at `00:00:00`.
+
+Microdrama Pacing
+- Episodes should be fast, visual, and cliffhanger-driven.
+- Each episode should focus on one major turn: plot advance, stakes rise, relationship shift, reveal, threat, reversal, or emotional rupture.
+- Open on conflict or pressure whenever possible.
+- End each episode with a hook, cliffhanger, visual shock, emotional question, or unresolved danger.
+- Avoid filler scenes where nothing changes.
+
+Scene Writing Priorities
+- Include enough detail for later AI video generation while still reading like a script.
+- Describe important locations, character positions, body language, actions, props, magical effects, and atmosphere.
+- Keep dialogue short and pressure-driven.
+- Let subtext, gesture, silence, interruption, and visual action carry emotional beats.
+- Maintain continuity with the established arc, character, creature, and worldbuilding files.
+
+Character-Specific Script Rules
+- Kuro does not speak normal dialogue. He communicates through meows, growls, roars, posture, claws, eye contact, and catlike body language.
+- Hana usually interprets Kuro's communication for the audience.
+- Ren cannot understand Kuro directly until their cooperation develops later.
+- Keep Hana active, curious, emotionally brave, and willing to move toward the truth even when scared.
+- Keep Ren elegant, restrained, protective, and conflicted between Hana and Warden duty.
+- Keep Mina as Hana's social-world anchor, comic pressure valve, and emotional witness.
+
+Default Script Assumptions
+- Format: vertical microdrama episode.
+- Runtime: about 1-2 minutes unless otherwise specified.
+- Dialogue language: English.
+- Setting: Japan.
+- Visual style: cinematic supernatural romance with strong mobile-readable imagery.
