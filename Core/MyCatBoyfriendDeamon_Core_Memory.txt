@@ -16,6 +16,8 @@ Core Project Files
 Episode Writing Rule
 - When the user says to write or revise an episode, write and update it in its matching file under Core/Episodes using the pattern MyCatBoyfriendDeamon_Arc_##_Episode_##_Script.txt.
 - For example, Arc 01 Episode 01 belongs in Core/Episodes/MyCatBoyfriendDeamon_Arc_01_Episode_01_Script.txt.
+- Each episode script must include an estimated total runtime directly under the episode title.
+- Each episode script must include timecoded sections, and every episode's timecode starts at 00:00:00.
 - Until then, use the core files for planning, continuity, reference, and preparation only.
 
 AI Video Generation Requirement
