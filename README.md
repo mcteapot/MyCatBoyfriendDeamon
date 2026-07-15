@@ -120,3 +120,5 @@ When reviewing or revising the project:
 - Flag contradictions before changing files.
 - Keep cut material marked as cut/reserved rather than deleting it unless explicitly asked.
 - Prioritize microdrama momentum: immediate hooks, emotional escalation, visual clarity, and cliffhangers.
+
+Written by Archie & Jay
