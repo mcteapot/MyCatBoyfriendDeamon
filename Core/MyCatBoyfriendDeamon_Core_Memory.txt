@@ -12,6 +12,7 @@ Core Project Files
 - MyCatBoyfriendDeamon_Arc_Outline: High-level overview of what is to happen in the show.
 - MyCatBoyfriendDeamon_Script: Legacy general script file.
 - Core/Episodes: Active episode script folder. Each episode has its own sequential file using the pattern MyCatBoyfriendDeamon_Arc_##_Episode_##_Script.txt.
+- Core/Prompts: Active Seedance 2.0 prompt folder. Each episode's generated video prompts should have their own sequential file using the pattern MyCatBoyfriendDeamon_Arc_##_Episode_##_Prompt.txt.
 - Core/Guidelines: Project-specific writing and video generation guidelines.
   - MyCatBoyfriendDeamon_Script_Guidelines.txt: Script writing rules, including Japan setting with English dialogue, episode format, pacing, and character-specific script rules.
   - MyCatBoyfriendDeamon_VideoGeneration_Guidelines.txt: Seedance 2.0 prompt conversion rules, including photoreal output, 9:16 aspect ratio, detailed visual prompting, and 10-15 second prompt breakdowns.
@@ -34,6 +35,14 @@ AI Video Generation Requirement
   - Important props
   - Camera-relevant movement and staging
 - Descriptions should be useful for AI video generation while still reading like a script for a fast vertical microdrama.
+
+Seedance Prompt Generation Rule
+- When the user says to create or revise Seedance 2.0 prompts for an episode, write and update them in the matching file under Core/Prompts using the pattern MyCatBoyfriendDeamon_Arc_##_Episode_##_Prompt.txt.
+- For example, Arc 01 Episode 01 prompts belong in Core/Prompts/MyCatBoyfriendDeamon_Arc_01_Episode_01_Prompt.txt.
+- Create a new prompt file when one does not already exist for the requested episode.
+- Each episode's prompts should be separated into 10-15 second Seedance 2.0 generation chunks.
+- Each 10-15 second prompt chunk should cover one clear visual beat, action exchange, emotional turn, supernatural reveal, or cliffhanger moment.
+- Use the video generation guidelines and Seedance 2.0 prompt generator skill when creating prompt files.
 
 Working Principle
 - Maintain continuity with the character bible, creature bible, worldbuilding file, and arc outline.

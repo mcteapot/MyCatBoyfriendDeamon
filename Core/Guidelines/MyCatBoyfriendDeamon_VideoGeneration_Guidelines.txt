@@ -16,9 +16,18 @@ Aspect Ratio
 Prompt Detail Requirements
 - For characters, include detailed descriptions of appearance, wardrobe, posture, facial expression, emotional state, and relevant body language.
 - For creatures, include detailed descriptions of anatomy, texture, scale, movement, behavior, lighting interaction, and supernatural effects.
-- For locations, include detailed descriptions of setting layout, time of day, lighting, weather, atmosphere, props, background movement, and visual mood.
+- For locations, include especially detailed descriptions of setting layout, time of day, lighting, weather, atmosphere, props, background movement, and visual mood.
 - For camera moves, specify shot size, angle, camera movement, framing, focus, and subject movement.
 - For actions, describe visible physical motion clearly and sequentially so the generated video has readable staging.
+
+Omni Reference Input Rules
+- Seedance 2.0 video generation will use Omni Reference inputs when available.
+- We may provide reference images for characters, important items, props, magical objects, and creatures when inputting into Seedance 2.0.
+- Do not plan to provide location images directly into Seedance 2.0 for now.
+- Location images may be used only at prompt-generation time as reference for writing the text prompt.
+- Because location images will not be included as Seedance 2.0 inputs, the final prompt must describe locations in strong detail.
+- Every Seedance prompt should make the location readable without relying on an uploaded location reference image.
+- When references are used, clearly state which references are intended for Seedance input and which location references were used only to inform the written description.
 
 Seedance Prompt Breakdown Rule
 - Each written script episode should be converted into 10-15 second video prompt breakdowns.
