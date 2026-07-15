@@ -10,10 +10,12 @@ Core Project Files
 - MyCatBoyfriendDeamon_Creature_Bible: Overview of all creatures who could appear in the show.
 - MyCatBoyfriendDeamon_WorldBuilding: Overview of where the show takes place.
 - MyCatBoyfriendDeamon_Arc_Outline: High-level overview of what is to happen in the show.
-- MyCatBoyfriendDeamon_Script: The single script file where all written episodes will be added.
+- MyCatBoyfriendDeamon_Script: Legacy general script file.
+- Core/Episodes: Active episode script folder. Each episode has its own sequential file using the pattern MyCatBoyfriendDeamon_Arc_##_Episode_##_Script.txt.
 
 Episode Writing Rule
-- When the user says to write an episode, write the episode into MyCatBoyfriendDeamon_Script.
+- When the user says to write or revise an episode, write and update it in its matching file under Core/Episodes using the pattern MyCatBoyfriendDeamon_Arc_##_Episode_##_Script.txt.
+- For example, Arc 01 Episode 01 belongs in Core/Episodes/MyCatBoyfriendDeamon_Arc_01_Episode_01_Script.txt.
 - Until then, use the core files for planning, continuity, reference, and preparation only.
 
 AI Video Generation Requirement
