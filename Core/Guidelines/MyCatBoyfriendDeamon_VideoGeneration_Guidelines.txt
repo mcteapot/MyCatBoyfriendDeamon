@@ -7,6 +7,7 @@ Purpose
 Core Output Style
 - All video generation prompts should target photoreal video output.
 - The visual style should feel cinematic, grounded, and physically believable, even when supernatural elements appear.
+- Default visual texture should suggest 32mm film quality: natural film grain, cinematic contrast, controlled highlights, rich but realistic color, and a polished live-action finish.
 - Magical effects, yokai, demon forms, blue flames, black-red Mawari energy, spirit chains, bells, reflections, and shrine phenomena should be described as photoreal supernatural visuals rather than cartoon or anime visuals unless the user says otherwise.
 
 Aspect Ratio
