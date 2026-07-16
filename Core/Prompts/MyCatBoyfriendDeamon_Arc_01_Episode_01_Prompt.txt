@@ -3,3 +3,284 @@ ARC 01: THE SHRINE MARK
 EPISODE 01: "Don't Look At Me"
 ESTIMATED TOTAL RUNTIME: 00:01:15
 VIDEO GEN PROMPTS
+
+SEEDANCE 2.0 GENERATION 01
+SCRIPT RANGE: 00:00:00 - 00:00:12
+DURATION: 12 seconds
+ASPECT RATIO: 9:16
+MODE: Timestamped reference-guided sequence
+STYLE: Photoreal cinematic supernatural horror-romance, 32mm film texture, natural film grain, high-contrast moonlit blue lighting, grounded live-action realism.
+
+SEEDANCE INPUT REFERENCES:
+@image1: Hana Mori character reference. Preserve her exact facial identity, age, soft dark hair, warm brown eyes, Japanese school uniform, red shrine bracelet, and frightened body language.
+@image2: Red shrine bracelet reference, if provided. Preserve color, material, size, and weak blue spiritual glow.
+
+LOCATION DESCRIPTION:
+Interior of a ruined abandoned Japanese mountain shrine at night. The rotting wooden roof is broken open, letting a cold shaft of moonlight pour through splintered beams and drifting dust. The walls and pillars are covered with old paper prayer charms, smeared ink, ropes, shide paper streamers, and peeling seals. Wet stone floor tiles reflect blue lantern light. Broken boards, fallen leaves, torn charms, moss, and shrine debris scatter across the floor. Through the open doorway, a moonlit torii gate and dense cedar forest are visible outside.
+
+FINAL SEEDANCE 2.0 PROMPT:
+```text
+Style: photoreal cinematic supernatural horror-romance, vertical 9:16, 32mm film texture, natural film grain, cold moonlight, wet reflective surfaces, deep blue shadows, restrained handheld urgency.
+
+Use @image1 for Hana Mori's exact identity, school uniform, hairstyle, face, and red bracelet placement. Use @image2 only for the exact bracelet design and blue spiritual glow, if provided. Location references are not Seedance inputs; render the abandoned shrine interior from the written description.
+
+[00:00-00:03] Extreme close-up of a cracked bronze shrine bell hanging from a frayed rope in the dark rafters. It swings by itself, slow and unnatural. Moonlight catches damp dust and tiny droplets in the air. SFX: one hollow shrine bell chime, "DING."
+
+[00:03-00:07] Low-angle medium shot of Hana Mori stumbling backward across the wet, rotting shrine floor. Her shoes slide on broken paper charms and mossy stone. She throws one hand out for balance, breathing hard, eyes wide with panic.
+
+[00:07-00:12] Close-up on Hana's red shrine bracelet as it flickers with weak blue light. The glow pulses against her trembling wrist and reflects on the wet floor. She backs into the edge of a decayed altar, shoulders tense, trying not to scream.
+
+Ambient: night wind through broken roof beams, distant forest creaks, dripping water, paper charms fluttering without visible wind. Music: low trembling strings and a faint sub-bass pulse, quiet under the bell.
+
+Maintain Hana's identity, uniform, bracelet position, shrine layout, moonlight direction, wet floor reflections, and blue spiritual glow across all shots.
+```
+
+AVOID:
+```text
+Avoid: anime styling, cartoon effects, clean modern shrine surfaces, daylight, extra characters, unstable bracelet design, unreadable facial expression, abrupt camera jumps, flickering uniform.
+```
+
+REFERENCE-LIMIT CHECK:
+Total references: 2/9
+Images: 2/9
+Videos: 0/3
+Audio: 0/3
+Status: Valid
+
+
+SEEDANCE 2.0 GENERATION 02
+SCRIPT RANGE: 00:00:12 - 00:00:25
+DURATION: 13 seconds
+ASPECT RATIO: 9:16
+MODE: Timestamped reference-guided dialogue sequence
+STYLE: Photoreal cinematic supernatural horror-romance, 32mm film texture, claustrophobic handheld camera, cold blue moonlight, wet shrine shadows.
+
+SEEDANCE INPUT REFERENCES:
+@image1: Hana Mori character reference. Preserve facial identity, school uniform, soft dark hair, warm brown eyes, red bracelet, and terrified emotional continuity from the previous generation.
+@image2: Jikininki revenant creature reference, if provided. Preserve corpse-gray skin, cracked jaws, sunken eyes, jerking bone-pulled movement, shrine-dead anatomy, and blackened mouth details.
+
+LOCATION DESCRIPTION:
+Interior of the abandoned shrine at night. The camera stays low inside the ruined prayer hall: huge dark pillars wrapped with thick shrine rope, thousands of aged paper charms pasted across wood, fallen boards, wet leaves, puddled stone, broken altar pieces, faint blue lanterns, and a doorway opening toward a moonlit torii gate outside. The roof hole casts a narrow column of cold light, while corners remain almost black.
+
+FINAL SEEDANCE 2.0 PROMPT:
+```text
+Style: photoreal cinematic supernatural horror-romance, vertical 9:16, 32mm film grain, cold moonlit blue lighting, claustrophobic handheld tension, physically believable creature movement.
+
+Use @image1 for Hana's exact identity, wardrobe, hairstyle, red bracelet, and fear continuity. Use @image2 for the Jikininki revenants' corpse texture, cracked jaws, sunken eyes, gray skin, and broken hunger-driven movement, if provided. Location references are not Seedance inputs; render the shrine interior from the written description.
+
+[00:00-00:04] Wide low shot from behind broken altar debris. Five to eight Jikininki revenants crawl out from the shrine shadows around Hana, emerging from behind pillars, under fallen boards, and beside the paper-covered walls. Their limbs jerk in uneven starts, as if hunger is pulling their bones forward.
+
+[00:04-00:08] Medium close-up of Hana pressed against the altar. She clamps one hand over her mouth, eyes wet and shaking. Her red bracelet glows faintly blue. She whispers, terrified, "No. No, this is a dream."
+
+[00:08-00:13] Sudden over-the-shoulder shot from behind Hana as the nearest revenant snaps its cracked jaw inches from her face. She screams and falls sideways against the altar, scattering old charms across the wet floor.
+
+Ambient: wet wood creaking, paper seals rattling, revenants scraping across stone, ragged corpse breathing from several directions. SFX: sharp jaw snap near the lens, Hana's scream, charm papers sliding across wet tile. Music: tense low strings swell, then cut thin at the jaw snap.
+
+Maintain Hana's identity, bracelet glow, revenant count, shrine layout, moonlight shaft, blue lantern accents, and wet floor reflections across all shots.
+```
+
+AVOID:
+```text
+Avoid: gore focus, comedy monster movement, duplicate Hana, clean white paper charms, floating creatures, excessive blood, inconsistent revenant anatomy, lip-sync mismatch, abrupt teleporting.
+```
+
+REFERENCE-LIMIT CHECK:
+Total references: 2/9
+Images: 2/9
+Videos: 0/3
+Audio: 0/3
+Status: Valid
+
+
+SEEDANCE 2.0 GENERATION 03
+SCRIPT RANGE: 00:00:25 - 00:00:38
+DURATION: 13 seconds
+ASPECT RATIO: 9:16
+MODE: Timestamped reference-guided dialogue sequence
+STYLE: Photoreal cinematic supernatural action-romance, 32mm film texture, blue flame contrast against black shrine shadows.
+
+SEEDANCE INPUT REFERENCES:
+@image1: Hana Mori character reference. Preserve exact identity, school uniform, red bracelet, and terrified continuity.
+@image2: Kuro Aonuma human-form character reference. Preserve exact facial identity, messy black hair, black school uniform, glowing blue eyes, hidden broken collar at the throat, guarded catlike posture.
+@image3: Jikininki revenant creature reference, if provided. Preserve corpse-gray skin, cracked jaws, sunken eyes, and jerking crawl.
+
+LOCATION DESCRIPTION:
+Ruined shrine interior at night. Broken roof beams frame a shaft of full-moon light. Paper charms cover almost every pillar and wall. Thick shrine rope hangs across dark wood. Blue lanterns glow low on the floor, reflected in puddles. The open doorway behind the fight reveals a moonlit stone path, a torii gate, and dense cedar forest beyond. Everything feels damp, abandoned, and spiritually infected.
+
+FINAL SEEDANCE 2.0 PROMPT:
+```text
+Style: photoreal cinematic supernatural action-romance, vertical 9:16, 32mm film grain, cold blue moonlight, high contrast, practical wet surfaces, blue flame rendered as realistic supernatural fire.
+
+Use @image1 for Hana's exact identity and continuity. Use @image2 for Kuro Aonuma's exact human-form identity, black school uniform, messy black hair, glowing blue eyes, hidden broken collar, and catlike posture. Use @image3 for revenant anatomy and motion, if provided. Location references are not Seedance inputs; render the ruined shrine interior from the written description.
+
+[00:00-00:03] A streak of blue flame tears across the frame from the broken doorway toward the altar, blowing loose paper charms into the air. The camera whip-pans with the flame but lands cleanly on the center of the shrine.
+
+[00:03-00:07] Full-body low-angle shot as Kuro Aonuma lands between Hana and the revenants in a crouched protective stance. His black school uniform is damp at the hem, messy black hair falling over glowing blue eyes. The broken collar is barely visible beneath his collar line.
+
+[00:07-00:10] Close-up on Kuro's face as he bares his teeth, shoulders low and feral. He does not speak human words. He growls a sharp catlike warning: "Mrrrraow."
+
+[00:10-00:13] Reverse close-up on Hana, frozen in terror and confusion as blue flame reflects in her eyes. She breathes out, disbelieving, "You're... the transfer student?"
+
+Ambient: shrine wind, distant forest, wet floor drips, revenants hissing from the shadows. SFX: blue flame rush, Kuro's landing thud, scattered charms slapping wet stone, Kuro's catlike growl. Music: low percussion pulse begins under the blue flame entrance.
+
+Maintain exact character identities, eye-line continuity, Kuro between Hana and the revenants, blue flame color, hidden collar placement, moonlight direction, and wet shrine layout across all shots.
+```
+
+AVOID:
+```text
+Avoid: Kuro speaking normal dialogue, cartoon fire, superhero posing, extra limbs, identity drift, changed uniform colors, clean shrine, unstable blue eye glow, lip-sync mismatch for Hana.
+```
+
+REFERENCE-LIMIT CHECK:
+Total references: 3/9
+Images: 3/9
+Videos: 0/3
+Audio: 0/3
+Status: Valid
+
+
+SEEDANCE 2.0 GENERATION 04
+SCRIPT RANGE: 00:00:38 - 00:00:51
+DURATION: 13 seconds
+ASPECT RATIO: 9:16
+MODE: Timestamped reference-guided action sequence
+STYLE: Photoreal cinematic supernatural fight, 32mm film texture, handheld urgency with readable blocking, blue flame against wet black wood.
+
+SEEDANCE INPUT REFERENCES:
+@image1: Hana Mori character reference. Preserve exact identity, school uniform, red bracelet, and position behind Kuro.
+@image2: Kuro Aonuma human-form character reference. Preserve exact identity, black school uniform, messy black hair, glowing blue eyes, hidden broken collar, and feral protective movement.
+@image3: Jikininki revenant creature reference, if provided. Preserve corpse-gray skin, cracked jaws, sunken eyes, reassembling dead tissue, and jerking group movement.
+@image4: Blue flame or Moonbell Collar effect reference, if provided. Preserve blue spiritual sparks, flame texture, and chain-light behavior.
+
+LOCATION DESCRIPTION:
+Interior shrine combat space: a ruined wooden prayer hall with damp stone floor, fallen charms, broken altar, paper-sealed pillars, frayed ropes, blue lanterns, and a moonlit roof hole. The fight happens between the altar and the open doorway, keeping Hana trapped behind Kuro while the revenants swarm from both sides.
+
+FINAL SEEDANCE 2.0 PROMPT:
+```text
+Style: photoreal cinematic supernatural fight, vertical 9:16, 32mm film texture, cold blue moonlight, wet black wood, realistic creature contact, readable action choreography.
+
+Use @image1 for Hana's exact identity and red bracelet. Use @image2 for Kuro's exact human-form identity, black uniform, glowing blue eyes, hidden collar, and catlike combat posture. Use @image3 for revenant anatomy, texture, and reassembling movement, if provided. Use @image4 for blue flame, blue sparks, and collar-chain energy, if provided. Location references are not Seedance inputs; render the shrine interior from the written description.
+
+[00:00-00:04] Medium tracking shot as Kuro slashes one revenant across the torso with a crescent of blue flame. The revenant collapses into wet gray pieces that hit the stone floor and steam with blue light. Kuro stays low, shielding Hana with his body.
+
+[00:04-00:08] Close shot on the fallen revenant's limbs dragging themselves back together. Fingers claw through puddles, cracked jaw reconnecting with a sick twitch. More revenants swarm around Kuro from both sides.
+
+[00:08-00:11] Handheld two-shot: Kuro blocks the group from reaching Hana, but one revenant claws across his shoulder. Blue sparks burst from the wound like spiritual electricity. He hisses through his teeth, still refusing to move aside.
+
+[00:11-00:13] Close-up on Hana's bracelet burning brighter blue as she notices the collar under Kuro's uniform. She whispers, shaken, "Your collar..."
+
+Ambient: wet scraping bodies, paper charms fluttering, old wood groaning, low revenant hisses. SFX: blue flame slash, wet impact, bone-like reassembly clicks, claw strike, blue spark crackle. Music: urgent low drums with a thin metallic bell undertone.
+
+Maintain Kuro's protective position, Hana behind him, revenant count, blue flame direction, bracelet glow escalation, collar glimpse, shrine floor debris, and moonlight direction across all shots.
+```
+
+AVOID:
+```text
+Avoid: excessive gore, clean disintegration, Kuro abandoning Hana, unreadable fight blur, floating limbs, inconsistent creature scale, collar fully revealed too early, bracelet changing wrists.
+```
+
+REFERENCE-LIMIT CHECK:
+Total references: 4/9
+Images: 4/9
+Videos: 0/3
+Audio: 0/3
+Status: Valid
+
+
+SEEDANCE 2.0 GENERATION 05
+SCRIPT RANGE: 00:00:51 - 00:01:04
+DURATION: 13 seconds
+ASPECT RATIO: 9:16
+MODE: Timestamped reference-guided supernatural reveal sequence
+STYLE: Photoreal cinematic supernatural horror, 32mm film texture, intimate macro detail, painful blue-chain magic.
+
+SEEDANCE INPUT REFERENCES:
+@image1: Hana Mori character reference. Preserve exact identity, school uniform, red bracelet, and fearful eye-line toward Kuro and the lead revenant.
+@image2: Kuro Aonuma human-form character reference. Preserve exact identity, black school uniform, messy black hair, glowing blue eyes, hidden broken Moonbell Collar.
+@image3: Lead Jikininki revenant reference, if provided. Preserve stronger corpse-gray face, cracked mouth, blackened teeth, sunken eyes, and wet dead texture.
+@image4: Blue Moonbell and collar-chain effect reference, if provided. Preserve tiny glowing blue bell design, spiritual chain behavior, and cold blue light.
+
+LOCATION DESCRIPTION:
+Interior of the abandoned shrine under a broken roof. A moonbeam cuts through drifting dust onto Kuro and the lead revenant. The shrine walls are packed with old paper seals and hanging prayer strips. Thick ropes sag across blackened beams. Blue lanterns glow from the floor corners. The old bell hangs above, barely visible in the rafters. Shadows feel alive, pressing inward from the walls.
+
+FINAL SEEDANCE 2.0 PROMPT:
+```text
+Style: photoreal cinematic supernatural horror, vertical 9:16, 32mm film texture, macro detail, cold blue moonlight, black wet shrine shadows, painful magical realism.
+
+Use @image1 for Hana's exact identity, uniform, bracelet, and terrified continuity. Use @image2 for Kuro's exact human-form identity, black uniform, glowing blue eyes, and hidden broken collar. Use @image3 for the lead revenant's stronger corpse face and cracked mouth, if provided. Use @image4 for the tiny Blue Moonbell, blue chain light, and collar energy, if provided. Location references are not Seedance inputs; render the shrine interior from the written description.
+
+[00:00-00:04] Extreme close-up as the lead revenant opens its cracked mouth toward the camera. Between blackened teeth, a tiny Blue Moonbell glows wetly with cold spiritual light. Its tongue barely moves. The bell inside the mouth rings once. SFX: clear tiny bell chime, "DING."
+
+[00:04-00:08] Medium close-up of Kuro as the chime hits him. He stiffens in sudden pain, eyes flaring brighter blue. The broken collar flashes through the throat opening of his black uniform, no longer hidden.
+
+[00:08-00:11] Close-up on blue spiritual chains coiling out from the collar around Kuro's neck, shoulders, and arms. The chains tighten like living light. He arches slightly but fights to stay between Hana and the revenants.
+
+[00:11-00:13] Slow push-in on Hana as whispers seem to come from the paper-covered shrine walls. Her bracelet burns blue. She hears layered shadow voices whisper, "Hungry... hungry... seal-blood..."
+
+Ambient: dense shrine silence, paper charms scratching wood, breath in cold air, low shadow murmurs from every wall. SFX: tiny Moonbell chime, collar crackle, chain coil, Kuro's restrained pain growl. Music: thin high strings with a low pulsing drone, leaving space for the whispers.
+
+Maintain Kuro's identity, Hana's identity, lead revenant position, tiny Blue Moonbell inside the mouth, collar reveal, blue chains, shrine wall charms, moonlight shaft, and whispering shadow atmosphere across all shots.
+```
+
+AVOID:
+```text
+Avoid: oversized bell, jewelry-like gold bell, red magic, Kuro speaking words, chains looking like metal props instead of spiritual light, unclear mouth reveal, lip-sync mismatch, excessive gore.
+```
+
+REFERENCE-LIMIT CHECK:
+Total references: 4/9
+Images: 4/9
+Videos: 0/3
+Audio: 0/3
+Status: Valid
+
+
+SEEDANCE 2.0 GENERATION 06
+SCRIPT RANGE: 00:01:04 - 00:01:15
+DURATION: 11 seconds
+ASPECT RATIO: 9:16
+MODE: Timestamped reference-guided cliffhanger sequence
+STYLE: Photoreal cinematic supernatural transformation, 32mm film texture, terrifying romantic reveal, blue fire and shadow scale.
+
+SEEDANCE INPUT REFERENCES:
+@image1: Hana Mori character reference. Preserve exact identity, school uniform, red bracelet, shocked breathless expression, and position near the altar.
+@image2: Kuro Aonuma human-form character reference. Preserve exact identity, black school uniform, messy black hair, glowing blue eyes, hidden collar traits, and wounded emotional expression.
+@image3: Kuro chained blue cat-demon form reference, if provided. Preserve massive feline-demon silhouette, glowing blue eyes, beautiful terrifying blue flame mane, huge claws, chained collar, and predatory guardian energy.
+@image4: Jikininki revenant group reference, if provided. Preserve corpse-gray bodies, cracked jaws, sunken eyes, and simultaneous leaping threat.
+@image5: Blue flame, spiritual chain, or Moonbell Collar effect reference, if provided. Preserve blue fire, chain energy, and collar glow.
+
+LOCATION DESCRIPTION:
+Ruined abandoned shrine interior at night, seen as both close combat space and towering shadow wall. The broken roof admits a full-moon shaft from above. Dark wooden walls are layered with hundreds of old paper charms. The wet stone floor reflects blue lanterns and blue fire. The altar is cracked and mossy. The open doorway shows the torii gate outside in the cedar forest, but the revenants block escape. The hanging shrine bell overhead vibrates violently in the darkness.
+
+FINAL SEEDANCE 2.0 PROMPT:
+```text
+Style: photoreal cinematic supernatural transformation, vertical 9:16, 32mm film texture, cold moonlight, wet reflective shrine floor, blue fire, high-contrast shadow, romantic terror, no cartoon styling.
+
+Use @image1 for Hana's exact identity, school uniform, red bracelet, and breathless shock. Use @image2 for Kuro's human-form identity and wounded expression. Use @image3 for Kuro's chained blue cat-demon form, if provided: massive feline-demon shadow, glowing eyes, huge claws, blue flame mane, chained collar. Use @image4 for revenant group anatomy and movement, if provided. Use @image5 for blue flame and spiritual chains, if provided. Location references are not Seedance inputs; render the ruined shrine interior from the written description.
+
+[00:00-00:03] Wide shot inside the shrine as all revenants turn toward Hana at once. Kuro's eyes go fully animal. Blue fire ignites under his skin and spills outward from his shoulders, collar, and hands, reflecting across the wet shrine floor.
+
+[00:03-00:06] Low-angle transformation silhouette on the paper-covered shrine wall. Kuro's human shadow stretches huge and becomes a chained blue cat-demon: glowing eyes, massive claws, a beautiful terrifying mane of blue flame, and collar chains pulling across its throat and limbs.
+
+[00:06-00:08] Close-up on Hana, breath gone, face lit by blue fire. She stares at Kuro and says softly, horrified, "You're not human."
+
+[00:08-00:10] Kuro turns his demon face toward her. For one second, behind the terrifying eyes, he looks wounded and exposed. The camera holds on that painful eye contact.
+
+[00:10-00:11] The revenants leap from both sides. Kuro roars, a deep feline-demon roar, as the shrine bell overhead screams violently. Cut hard to black on the impact beat.
+
+Ambient: shrine walls trembling, paper charms whipping, blue fire rushing, revenants gathering breath, distant forest swallowed by the roar. SFX: violent bell scream, chain strain, supernatural flame surge, revenants launching, Kuro's full demon roar. Music: rising horror strings and deep drums, stopping instantly at cut to black.
+
+Maintain Hana's identity, Kuro's identity, transformation continuity, blue flame color, chained collar, revenant positions, moonlit shrine wall, wet reflections, and final cut-to-black cliffhanger energy.
+```
+
+AVOID:
+```text
+Avoid: cute mascot demon design, furry costume look, cartoon transformation, Kuro speaking words in demon form, unclear shadow silhouette, extra characters, red/orange fire, clean shrine interior, weak final roar, premature resolution.
+```
+
+REFERENCE-LIMIT CHECK:
+Total references: 5/9
+Images: 5/9
+Videos: 0/3
+Audio: 0/3
+Status: Valid
